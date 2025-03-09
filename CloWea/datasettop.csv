@@ -1,0 +1,5026 @@
+gender,age,season,clothing_type
+FEMALE,40대,summer,02top_01blouse
+MALE,40대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,30대,summer,02top_05vest
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_04shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,40대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,summer,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,summer,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_04shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,40대,summer,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+MALE,40대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,50대 이상,winter,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,30대,winter,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_03sweater
+FEMALE,50대 이상,summer,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_05vest
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,spring&fall,02top_05vest
+FEMALE,40대,winter,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+MALE,20대,winter,02top_05vest
+MALE,20대,summer,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,winter,02top_05vest
+MALE,40대,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_03sweater
+MALE,30대,summer,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,40대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,winter,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,summer,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,30대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_05vest
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_05vest
+MALE,30대,summer,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,40대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,40대,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,50대 이상,winter,02top_04shirt
+MALE,40대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,40대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,40대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_05vest
+FEMALE,30대,spring&fall,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,winter,02top_03sweater
+MALE,40대,summer,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_04shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,winter,02top_05vest
+MALE,20대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_05vest
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_04shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_01blouse
+FEMALE,30대,winter,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,30대,summer,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,winter,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,20대,winter,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+MALE,50대 이상,winter,02top_05vest
+MALE,30대,spring&fall,02top_05vest
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,40대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,40대,winter,02top_05vest
+MALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+MALE,30대,winter,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,30대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_01blouse
+MALE,30대,summer,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,summer,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+MALE,20대,winter,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+MALE,30대,winter,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,40대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,winter,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+MALE,30대,winter,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_05vest
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+MALE,40대,summer,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_05vest
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_04shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+MALE,50대 이상,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_05vest
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,winter,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_04shirt
+MALE,20대,summer,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,winter,02top_05vest
+FEMALE,40대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_03sweater
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+MALE,50대 이상,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,30대,winter,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_01blouse
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,30대,winter,02top_03sweater
+MALE,40대,summer,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_05vest
+MALE,40대,spring&fall,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,winter,02top_04shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_03sweater
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_05vest
+MALE,40대,winter,02top_05vest
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+MALE,40대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,40대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,40대,summer,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,20대,winter,02top_05vest
+FEMALE,30대,winter,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,30대,summer,02top_03sweater
+MALE,40대,summer,02top_04shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_04shirt
+MALE,40대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+MALE,40대,summer,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,winter,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,summer,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_03sweater
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+FEMALE,40대,winter,02top_05vest
+MALE,40대,winter,02top_03sweater
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,50대 이상,winter,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_05vest
+MALE,30대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_04shirt
+FEMALE,40대,summer,02top_05vest
+FEMALE,40대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,30대,spring&fall,02top_05vest
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,50대 이상,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_04shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_03sweater
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+MALE,40대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,winter,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_04shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_05vest
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_01blouse
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,40대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+MALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,40대,winter,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_04shirt
+FEMALE,20대,winter,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_05vest
+MALE,20대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,summer,02top_01blouse
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,winter,02top_05vest
+MALE,40대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_05vest
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+MALE,50대 이상,winter,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+MALE,20대,summer,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+MALE,20대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,winter,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,50대 이상,winter,02top_04shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,50대 이상,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_03sweater
+FEMALE,40대,summer,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,30대,spring&fall,02top_05vest
+MALE,30대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,winter,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,40대,winter,02top_04shirt
+MALE,40대,spring&fall,02top_05vest
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,50대 이상,winter,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_04shirt
+MALE,50대 이상,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,winter,02top_05vest
+MALE,40대,winter,02top_03sweater
+FEMALE,40대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+MALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_05vest
+MALE,40대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,winter,02top_05vest
+FEMALE,20대,winter,02top_04shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_05vest
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,30대,spring&fall,02top_05vest
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,40대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_04shirt
+FEMALE,20대,winter,02top_05vest
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,winter,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+MALE,20대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,winter,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,winter,02top_05vest
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,50대 이상,winter,02top_03sweater
+MALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_03sweater
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_04shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_04shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,20대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_01blouse
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,30대,spring&fall,02top_04shirt
+MALE,50대 이상,winter,02top_05vest
+MALE,30대,winter,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+MALE,30대,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,20대,winter,02top_03sweater
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,30대,winter,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_05vest
+MALE,40대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,winter,02top_03sweater
+FEMALE,50대 이상,winter,02top_05vest
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,30대,summer,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_05vest
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,50대 이상,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,summer,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_04shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,winter,02top_05vest
+FEMALE,50대 이상,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_05vest
+MALE,40대,winter,02top_03sweater
+MALE,40대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,40대,winter,02top_05vest
+MALE,20대,summer,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_03sweater
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+MALE,40대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,50대 이상,winter,02top_03sweater
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,40대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+MALE,30대,winter,02top_03sweater
+FEMALE,20대,winter,02top_05vest
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+MALE,40대,winter,02top_05vest
+FEMALE,20대,winter,02top_05vest
+FEMALE,30대,spring&fall,02top_03sweater
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_05vest
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,40대,winter,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,winter,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,30대,spring&fall,02top_03sweater
+MALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_04shirt
+FEMALE,20대,spring&fall,02top_05vest
+FEMALE,50대 이상,winter,02top_05vest
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_04shirt
+MALE,40대,summer,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,50대 이상,summer,02top_02t-shirt
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,40대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_04shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+MALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,50대 이상,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+MALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+MALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,50대 이상,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,50대 이상,summer,02top_01blouse
+MALE,20대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,30대,spring&fall,02top_05vest
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,20대,summer,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,50대 이상,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,50대 이상,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+FEMALE,40대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_03sweater
+MALE,20대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_01blouse
+FEMALE,40대,summer,02top_04shirt
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,50대 이상,summer,02top_02t-shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_04shirt
+FEMALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_02t-shirt
+FEMALE,30대,summer,02top_01blouse
+MALE,30대,spring&fall,02top_04shirt
+FEMALE,30대,spring&fall,02top_04shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,40대,winter,02top_04shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,20대,winter,02top_03sweater
+FEMALE,40대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_05vest
+FEMALE,40대,winter,02top_05vest
+MALE,40대,summer,02top_02t-shirt
+MALE,30대,spring&fall,02top_02t-shirt
+FEMALE,20대,summer,02top_01blouse
+FEMALE,40대,winter,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+FEMALE,40대,winter,02top_05vest
+FEMALE,30대,winter,02top_03sweater
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+FEMALE,40대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_04shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,winter,02top_02t-shirt
+MALE,20대,spring&fall,02top_02t-shirt
+FEMALE,30대,winter,02top_02t-shirt
+FEMALE,20대,summer,02top_02t-shirt
+FEMALE,30대,summer,02top_04shirt
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,20대,spring&fall,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_02t-shirt
+MALE,30대,winter,02top_02t-shirt
+FEMALE,20대,winter,02top_02t-shirt
+MALE,30대,summer,02top_02t-shirt
+FEMALE,40대,summer,02top_02t-shirt
+FEMALE,20대,winter,02top_03sweater
+FEMALE,20대,spring&fall,02top_01blouse
+FEMALE,30대,winter,02top_03sweater
+MALE,40대,spring&fall,02top_02t-shirt
+MALE,30대,summer,02top_04shirt
+FEMALE,30대,summer,02top_02t-shirt
+FEMALE,20대,spring&fall,02top_03sweater
+MALE,20대,winter,02top_02t-shirt
+FEMALE,30대,summer,02top_02t-shirt
+MALE,40대,spring&fall,02top_02t-shirt

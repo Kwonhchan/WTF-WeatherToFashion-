@@ -1,0 +1,2462 @@
+gender,age,season,clothing_type
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,summer,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,summer,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,40대,summer,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,summer,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,summer,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,30대,summer,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+MALE,40대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_02jacket
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,summer,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,summer,01outer_03jumper
+MALE,50대 이상,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,summer,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,40대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+MALE,40대,summer,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+MALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+MALE,30대,winter,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,40대,summer,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+MALE,40대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+MALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+MALE,30대,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,40대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_02jacket
+MALE,40대,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_02jacket
+MALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_01coat
+MALE,50대 이상,winter,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+MALE,40대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_01coat
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_01coat
+MALE,40대,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_01coat
+MALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,30대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,summer,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+MALE,40대,winter,01outer_02jacket
+MALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_04cardigan
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+MALE,20대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,30대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_02jacket
+MALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+MALE,50대 이상,winter,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+MALE,40대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,40대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,50대 이상,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,50대 이상,summer,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+MALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,summer,01outer_04cardigan
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,40대,summer,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_02jacket
+MALE,40대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_03jumper
+MALE,40대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+MALE,40대,summer,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+FEMALE,20대,summer,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+MALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+MALE,20대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+MALE,50대 이상,summer,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+MALE,40대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,summer,01outer_02jacket
+MALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+MALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,40대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,50대 이상,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+MALE,50대 이상,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_02jacket
+MALE,40대,summer,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,summer,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+MALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+MALE,40대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,50대 이상,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,summer,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,summer,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+MALE,20대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,summer,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+MALE,30대,summer,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,summer,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+MALE,40대,winter,01outer_01coat
+MALE,30대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,winter,01outer_02jacket
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_01coat
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_04cardigan
+MALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,summer,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,40대,spring&fall,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,summer,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_02jacket
+MALE,20대,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,40대,winter,01outer_01coat
+MALE,30대,winter,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,summer,01outer_02jacket
+MALE,50대 이상,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,summer,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+MALE,40대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_01coat
+MALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_01coat
+FEMALE,20대,summer,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,50대 이상,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+MALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,summer,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,winter,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,30대,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_04cardigan
+MALE,40대,winter,01outer_03jumper
+FEMALE,40대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_01coat
+MALE,30대,winter,01outer_03jumper
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,30대,winter,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,summer,01outer_02jacket
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+MALE,50대 이상,summer,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,20대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,40대,winter,01outer_03jumper
+MALE,40대,winter,01outer_04cardigan
+MALE,50대 이상,spring&fall,01outer_03jumper
+MALE,50대 이상,winter,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_01coat
+MALE,50대 이상,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_01coat
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+MALE,20대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,summer,01outer_04cardigan
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,summer,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,summer,01outer_04cardigan
+MALE,20대,winter,01outer_02jacket
+MALE,50대 이상,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,summer,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_01coat
+MALE,40대,winter,01outer_01coat
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+MALE,20대,winter,01outer_03jumper
+FEMALE,50대 이상,summer,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,summer,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,30대,spring&fall,01outer_03jumper
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_04cardigan
+MALE,40대,spring&fall,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,40대,summer,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_02jacket
+MALE,30대,winter,01outer_03jumper
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_01coat
+MALE,30대,winter,01outer_01coat
+MALE,20대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,50대 이상,spring&fall,01outer_03jumper
+MALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+MALE,50대 이상,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,40대,spring&fall,01outer_02jacket
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_02jacket
+MALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,50대 이상,winter,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,winter,01outer_03jumper
+MALE,30대,winter,01outer_03jumper
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+MALE,20대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+MALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,40대,summer,01outer_01coat
+MALE,30대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_03jumper
+FEMALE,30대,winter,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_01coat
+MALE,40대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_03jumper
+MALE,40대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_01coat
+FEMALE,30대,spring&fall,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,summer,01outer_02jacket
+MALE,20대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,spring&fall,01outer_03jumper
+FEMALE,20대,summer,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_04cardigan
+MALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_01coat
+FEMALE,50대 이상,winter,01outer_04cardigan
+MALE,20대,spring&fall,01outer_02jacket
+FEMALE,40대,spring&fall,01outer_03jumper
+MALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,50대 이상,winter,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,30대,winter,01outer_01coat
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,20대,spring&fall,01outer_01coat
+FEMALE,20대,spring&fall,01outer_03jumper
+FEMALE,40대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+MALE,30대,winter,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+MALE,30대,spring&fall,01outer_02jacket
+FEMALE,40대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_01coat
+MALE,50대 이상,winter,01outer_01coat
+FEMALE,40대,winter,01outer_03jumper
+MALE,50대 이상,spring&fall,01outer_02jacket
+MALE,30대,winter,01outer_01coat
+MALE,20대,spring&fall,01outer_01coat
+MALE,30대,spring&fall,01outer_03jumper
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,winter,01outer_03jumper
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,30대,winter,01outer_04cardigan
+FEMALE,30대,spring&fall,01outer_03jumper
+FEMALE,20대,spring&fall,01outer_03jumper
+MALE,40대,winter,01outer_02jacket
+FEMALE,20대,spring&fall,01outer_02jacket
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,50대 이상,winter,01outer_01coat
+FEMALE,30대,summer,01outer_03jumper
+FEMALE,40대,winter,01outer_04cardigan
+FEMALE,50대 이상,summer,01outer_04cardigan
+FEMALE,40대,winter,01outer_02jacket
+FEMALE,20대,winter,01outer_04cardigan
+MALE,30대,winter,01outer_03jumper
+FEMALE,50대 이상,spring&fall,01outer_02jacket
+FEMALE,20대,winter,01outer_03jumper
+MALE,30대,spring&fall,01outer_01coat
+FEMALE,30대,spring&fall,01outer_04cardigan
+FEMALE,20대,winter,01outer_01coat
+FEMALE,20대,spring&fall,01outer_04cardigan
+FEMALE,40대,winter,01outer_03jumper
+FEMALE,20대,winter,01outer_01coat
